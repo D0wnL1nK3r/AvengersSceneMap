@@ -1,0 +1,385 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" expanded="1" checked="Qt::Checked">
+    <customproperties>
+      <Option/>
+    </customproperties>
+    <layer-tree-layer providerKey="delimitedtext" name="Avengers1_Szenenorte" source="./Avengers1_data.csv?type=csv&amp;maxFields=10000&amp;detectTypes=yes&amp;xField=Längengrad (Szenenort)&amp;yField=Breitengrad (Szenenort)&amp;crs=EPSG:4326&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" patch_size="-1,-1" legend_exp="" id="Avengers1_Szenenorte_b8301900_5902_48ce_8cd7_54dbdcbb7591" checked="Qt::Checked" expanded="1" legend_split_behavior="0">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer geometry="Point" refreshOnNotifyEnabled="0" type="vector" symbologyReferenceScale="-1" autoRefreshEnabled="0" readOnly="0" legendPlaceholderImage="" simplifyLocal="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" minScale="100000000" refreshOnNotifyMessage="" simplifyAlgorithm="0" maxScale="0" autoRefreshTime="0" labelsEnabled="0" wkbType="Point" simplifyDrawingTol="1" simplifyDrawingHints="1" styleCategories="AllStyleCategories">
+      <extent>
+        <xmin>-74.04516721728298023</xmin>
+        <ymin>22.57513690690538155</ymin>
+        <xmax>88.36477529435819633</xmax>
+        <ymax>48.7787718608518972</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>-74.04516721728298023</xmin>
+        <ymin>22.57513690690538155</ymin>
+        <xmax>88.36477529435819633</xmax>
+        <ymax>48.7787718608518972</ymax>
+      </wgs84extent>
+      <id>Avengers1_Szenenorte_b8301900_5902_48ce_8cd7_54dbdcbb7591</id>
+      <datasource>file:./Avengers1_data.csv?type=csv&amp;maxFields=10000&amp;detectTypes=yes&amp;xField=L%C3%A4ngengrad%20(Szenenort)&amp;yField=Breitengrad%20(Szenenort)&amp;crs=EPSG:4326&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Avengers1_Szenenorte</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="">delimitedtext</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal fixedDuration="0" enabled="0" mode="0" limitMode="0" accumulate="0" endField="" startExpression="" durationField="" durationUnit="min" startField="" endExpression="">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 symbollevels="0" referencescale="-1" type="singleSymbol" enableorderby="0" forceraster="0">
+        <symbols>
+          <symbol alpha="1" name="0" clip_to_extent="1" force_rhr="0" type="marker">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" type="QString" value=""/>
+                <Option name="properties"/>
+                <Option name="type" type="QString" value="collection"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" pass="0" locked="0" class="SimpleMarker">
+              <Option type="Map">
+                <Option name="angle" type="QString" value="0"/>
+                <Option name="cap_style" type="QString" value="square"/>
+                <Option name="color" type="QString" value="225,89,137,255"/>
+                <Option name="horizontal_anchor_point" type="QString" value="1"/>
+                <Option name="joinstyle" type="QString" value="bevel"/>
+                <Option name="name" type="QString" value="circle"/>
+                <Option name="offset" type="QString" value="0,0"/>
+                <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="offset_unit" type="QString" value="MM"/>
+                <Option name="outline_color" type="QString" value="35,35,35,255"/>
+                <Option name="outline_style" type="QString" value="solid"/>
+                <Option name="outline_width" type="QString" value="0"/>
+                <Option name="outline_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="outline_width_unit" type="QString" value="MM"/>
+                <Option name="scale_method" type="QString" value="diameter"/>
+                <Option name="size" type="QString" value="2"/>
+                <Option name="size_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+                <Option name="size_unit" type="QString" value="MM"/>
+                <Option name="vertical_anchor_point" type="QString" value="1"/>
+              </Option>
+              <prop v="0" k="angle"/>
+              <prop v="square" k="cap_style"/>
+              <prop v="225,89,137,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <Option/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <legend type="default-vector" showLabelLegend="0"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field name="Filmtitel" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Szenen-ID" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Szenenbeschreibung" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Drehort" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Drehortbeschreibung" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Breitengrad (Drehort)" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Längengrad (Drehort)" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Szenenort" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Breitengrad (Szenenort)" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Längengrad (Szenenort)" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Zeit im Film (sek)" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Zeit (chronologisch)" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Figuren" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Links" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Quelle" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Anmerkung" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias field="Filmtitel" name="" index="0"/>
+        <alias field="Szenen-ID" name="" index="1"/>
+        <alias field="Szenenbeschreibung" name="" index="2"/>
+        <alias field="Drehort" name="" index="3"/>
+        <alias field="Drehortbeschreibung" name="" index="4"/>
+        <alias field="Breitengrad (Drehort)" name="" index="5"/>
+        <alias field="Längengrad (Drehort)" name="" index="6"/>
+        <alias field="Szenenort" name="" index="7"/>
+        <alias field="Breitengrad (Szenenort)" name="" index="8"/>
+        <alias field="Längengrad (Szenenort)" name="" index="9"/>
+        <alias field="Zeit im Film (sek)" name="" index="10"/>
+        <alias field="Zeit (chronologisch)" name="" index="11"/>
+        <alias field="Figuren" name="" index="12"/>
+        <alias field="Links" name="" index="13"/>
+        <alias field="Quelle" name="" index="14"/>
+        <alias field="Anmerkung" name="" index="15"/>
+      </aliases>
+      <defaults>
+        <default field="Filmtitel" applyOnUpdate="0" expression=""/>
+        <default field="Szenen-ID" applyOnUpdate="0" expression=""/>
+        <default field="Szenenbeschreibung" applyOnUpdate="0" expression=""/>
+        <default field="Drehort" applyOnUpdate="0" expression=""/>
+        <default field="Drehortbeschreibung" applyOnUpdate="0" expression=""/>
+        <default field="Breitengrad (Drehort)" applyOnUpdate="0" expression=""/>
+        <default field="Längengrad (Drehort)" applyOnUpdate="0" expression=""/>
+        <default field="Szenenort" applyOnUpdate="0" expression=""/>
+        <default field="Breitengrad (Szenenort)" applyOnUpdate="0" expression=""/>
+        <default field="Längengrad (Szenenort)" applyOnUpdate="0" expression=""/>
+        <default field="Zeit im Film (sek)" applyOnUpdate="0" expression=""/>
+        <default field="Zeit (chronologisch)" applyOnUpdate="0" expression=""/>
+        <default field="Figuren" applyOnUpdate="0" expression=""/>
+        <default field="Links" applyOnUpdate="0" expression=""/>
+        <default field="Quelle" applyOnUpdate="0" expression=""/>
+        <default field="Anmerkung" applyOnUpdate="0" expression=""/>
+      </defaults>
+      <constraints>
+        <constraint field="Filmtitel" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Szenen-ID" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Szenenbeschreibung" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Drehort" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Drehortbeschreibung" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Breitengrad (Drehort)" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Längengrad (Drehort)" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Szenenort" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Breitengrad (Szenenort)" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Längengrad (Szenenort)" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Zeit im Film (sek)" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Zeit (chronologisch)" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Figuren" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Links" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Quelle" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+        <constraint field="Anmerkung" unique_strength="0" constraints="0" exp_strength="0" notnull_strength="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint field="Filmtitel" desc="" exp=""/>
+        <constraint field="Szenen-ID" desc="" exp=""/>
+        <constraint field="Szenenbeschreibung" desc="" exp=""/>
+        <constraint field="Drehort" desc="" exp=""/>
+        <constraint field="Drehortbeschreibung" desc="" exp=""/>
+        <constraint field="Breitengrad (Drehort)" desc="" exp=""/>
+        <constraint field="Längengrad (Drehort)" desc="" exp=""/>
+        <constraint field="Szenenort" desc="" exp=""/>
+        <constraint field="Breitengrad (Szenenort)" desc="" exp=""/>
+        <constraint field="Längengrad (Szenenort)" desc="" exp=""/>
+        <constraint field="Zeit im Film (sek)" desc="" exp=""/>
+        <constraint field="Zeit (chronologisch)" desc="" exp=""/>
+        <constraint field="Figuren" desc="" exp=""/>
+        <constraint field="Links" desc="" exp=""/>
+        <constraint field="Quelle" desc="" exp=""/>
+        <constraint field="Anmerkung" desc="" exp=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <reuseLastValue/>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>
