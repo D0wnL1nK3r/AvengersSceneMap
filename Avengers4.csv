@@ -1,0 +1,859 @@
+Filmtitel,Szenen-ID,Szenenbeschreibung,Drehort,Drehortbeschreibung,Breitengrad (Drehort),Längengrad (Drehort),Szenenort,Breitengrad (Szenenort), Längengrad (Szenenort),Zeit im Film (sek),Zeit (chronologisch),Figuren,Links,Quelle,Anmerkung,
+Endgame,A4-1 ,"Clint Barton verbringt Zeit mit seiner 
+Familie und bringt seiner Tochter 
+Bogenschießen bei. 
+Seine Familie löst sich plötzlich durch 
+die Dezimierung in Staub auf.","Christopher Farms and Fertilizer.
+856 Christopher Rd 
+Sharpsburg, GA 30277
+","Christopher Farms and Fertilizer, 
+Privates Anwesen,
+westlich vom Lake McIntosh
+in Sharpsburg, GA 30277
+",33.36652536163343,-84.60400411599839,Barton Farm,33.36652536163343,-84.60400411599839,00:00:00,2018,"Clint Barton/ Cooper Barton /
+Laura Barton / Lila Barton /
+Nathaniel Pietro Barton",https://mculocationscout.com/2021/12/22/barton-farm-mcu-location-scout-3/,MCU: Location Scout,,
+Endgame,A4-2,"Tony Stark zeigt Nebula wie man 
+Paper Football spielt.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797583,-84.51239895398108,"Die Benatar 
+(Schiff der Gurdians 
+of the Galaxy)",null,null,00:02:30,2018,Nebula / Tony Stark,,MCU: Location Scout,,
+Endgame,A4-3,"Tony Stark zeichnet eine 
+Abschiedsnachricht für seiner 
+Verlobten Pepper Potts auf und legt 
+sich schließlich hin um zu 
+schlafen/sterben.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797584,-84.51239895398109,"Die Benatar 
+(Schiff der Gurdians 
+of the Galaxy)",null,null,00:03:13,2018,Nebula / Tony Stark,,MCU: Location Scout,,
+Endgame,A4-4,"Nebula legt den schlafenden Tony Stark
+in einen der Sessel im Cockpit und 
+verschwindet wieder im Schiff. Tony 
+wird durch ein grelles Licht geweckt. 
+Auftritt von Captain Marvel.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797589,-84.51239895398114,"Die Benatar 
+(Schiff der Gurdians 
+of the Galaxy)",null,null,00:06:23,2018,"Carol Danvers als Captain Marvel/ Nebula/ Tony Stark/ 
+",,MCU: Location Scout,,
+Endgame,A4-5,"Steve Rogers rasiert sich, wobei 
+plötzlich einer der Spiegel bebt. 
+Er schaut alamiert gegen die Decke. ","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842954,-84.45141866135856,"Avengers HQ
+“Upstate New York”",null,null,00:08:04,2018,Steve Rogers ,https://mculocationscout.com/2020/08/09/new-avengers-facility-mcu-location-scout/,MCU: Location Scout,,Legende
+Endgame,A4-6,"Captain Marvel rettet Tony Stark und 
+Nebula und bringt die beiden zum 
+Avengers HQ. Pepper Potts und 
+Steve Rogerskümmern sich um Tony, 
+während Rocket und Nebula um den 
+Rest des Teams trauern. ","SANY America Inc.,
+318 Cooper Cir N, 
+Peachtree City, GA 30269","Amerikanisches 
+Baumaschienenunternehmen in 
+Peachtree City, GA.",33.346237924968856,-84.55586891533968,"Avengers HQ 
+“Upstate New York”",null,null,00:08:24,2018,"Bruce Banner/ James Rhodes/ Natascha Romanoff/ 
+Pepper Potts/ Rocket/ Steve Rogers/ Tony Stark/ 
+
+  
+",https://mculocationscout.com/2020/08/09/new-avengers-facility-mcu-location-scout/,MCU: Location Scout,,Filmtitel (string) → Avengers/Age of Ultron/Infinity War/Endgame 
+Endgame,A4-7,"Tony Stark wird über die Situation, 
+nach dem Fehlschlag gegen 
+Thanos aufgeklärt. Tony fällt in 
+Ohnmacht nach einem Streit 
+mit Steve Rogers. ","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842954,-84.45141866135856,"Avengers HQ 
+“Upstate New York”",null,null,00:09:37,2018,"Bruce Banner/ James Rhodes/ Natascha Romanoff/ 
+Rocket/ Steve Rogers/ Thor/ Tony Stark/ 
+  
+",https://mculocationscout.com/2020/08/09/new-avengers-facility-mcu-location-scout/,MCU: Location Scout,,Szenen-ID = Film-ID + ID (string) → A1/A2/A3/A4+1…
+Endgame,A4-8,"Während Tony Stark sich in einem Bett 
+zur Ruhe legt, will Carol Danvers nach 
+Thanos suchen, um ihn zu töten. 
+Nebula tritt ein und erzält den 
+Anwesenden von Thanos 
+Rückzugsort. 
+","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842954,-84.45141866135856,"Avengers HQ 
+“Upstate New York”",null,null,00:12:17,2018,"Bruce Banner/ James Rhodes/ Natascha Romanoff/ 
+Pepper Potts/ Rocket/ Steve Rogers/ Thor/ Tony Stark/   
+  
+",https://mculocationscout.com/2020/08/09/new-avengers-facility-mcu-location-scout/,MCU: Location Scout,,Szenenbeschreibung (string) → max. 280 Zeichen
+Endgame,A4-9,"Die Avengers reisen zum Rückzugsort 
+von Thanos (Mit Ausnahme von Tony 
+Stark und Pepper Potts), um sich an ihn 
+zu rächen. Nachdem Carol Denvers die 
+Umgebung untersucht, stellen sie 
+heraus, das Thanos sich alleine auf 
+dem Planteten befindet.  ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797583,-84.51239895398108,"Die Benatar 
+(Schiff der Gurdians 
+of the Galaxy)",null,null,00:14:48,2018,"Bruce Banner/ Carol Danvers als Captain Marvel/ 
+James Rhodes als War Machine/ 
+Natascha Romanoff als Black Widow/ Nebula/ 
+Rocket/ Steve Rogers als Captain America/ Thor
+
+
+ 
+ ",,MCU: Location Scout,,Drehort (string) → Stadt / Location
+Endgame,A4-10,"Nach einer Konfrontation mit Thanos, 
+stellt sich heraus, dass er die 
+Infinity-Steine nach der Dezimierung, 
+zerstörte. Thor wird wütend und 
+enthauptet Thanos.","Batad, Banaue Rice Terraces.
+Nueva Vizcaya - Ifugao - 
+Mountain Province Rd, 
+Banaue, Ifugao, Philippines","Historischer Ort in den 
+Philipinen, mit Reisplantagen 
+in/auf einem Berg. ",16.92486073545497,121.05573325536713,"Planet 0259-S 
+(Der Garten)",null,null,00:16:19,2018,"Bruce Banner/ Carol Danvers als Captain Marvel/ 
+James Rhodes als War Machine/ 
+Natascha Romanoff als Black Widow/ Nebula/ 
+Rocket/ Steve Rogers als Captain America/ Thanos/Thor
+
+
+ 
+ ",,MCU: Location Scout,,Längengrad Drehort Koordinaten (float)
+Endgame,A4-11,"Steve Rogers Leitet eine 
+Selbsthilfegruppe in dem 
+Citi Field Stadion, wobei er anderen 
+hilft, über den Verlust einer geliebten 
+Person hinweg zu kommen. ","Citi Field Stadion.
+41 Seaver Way, Queens, 
+NY 11368","Baseballstadion im Stadtteil 
+Flushing des Borough Queens der 
+US-amerikanischen Metropole 
+New York City.",40.75746183744941,-73.84562788097159,Citi Field Stadion,40.75746183744941,-73.84562788097159,00:20:00,2023,Steve Rogers,,MCU: Location Scout,,Breitengrad Drehort Koordinaten (float)
+Endgame,A4-12A,"Durch Scotts Langs aufenthalt in der 
+Quantum Dimension, konnte er der 
+Dezimierung entkommen. Nun findet er 
+sich im San Fransisco von 2023 wieder. ","Mike's Outboard Parts.
+Atlanta, GA 30310",Lagerunternehmen (Self-Storage),33.73587328797229,-84.41039345766981,Mike's Outboard Parts,null,null,00:22:08,2023,Scott Lang,https://mculocationscout.com/2020/09/26/u-store-it-self-storage-san-francisco-mcu-location-scout/,MCU: Location Scout,,Szenenort (string) → Stadt / Location
+Endgame,A4-12B,"Nachdem Scott Lang durch verlassene 
+Straßen wandert, fragt er einen Jungen 
+was passiert ist. Der Junge schaut ihn
+traurig/wütend an und verschwindet. ","Wohngebiet, Curran St.
+1064 Curran St NW,
+Atlanta, GA 30318","Wohngebiet, Curran St.
+",33.784195520780926,-84.40641966135858,Wohngebiet,null,null,00:23:42,2023,Scott Lang,https://mculocationscout.com/2020/09/26/street-san-francisco-mcu-location-scout/,MCU: Location Scout,,Längengrad Szenenort Koordinaten (float)
+Endgame,A4-12C,"Scott Lang erfährt von der Dezimierung 
+und sucht den Namen seiner Tochter 
+auf einer der Tafel der Verschwundenen. 
+Statt seiner Tochter, findet er seinen 
+eigenen Namen auf der Tafel. ","Piedmont Park.
+Meadow Path, 
+Atlanta, GA 30306",Park in Atlanta ,33.78410051497316,-84.37261754233018,"Erinnerungstafel für 
+die Opfer der 
+Dezimierung",37.80443459819289,-122.46493973369293,00:24:14,2023,Scott Lang,https://mculocationscout.com/2020/09/26/memorial-san-francisco-mcu-location-scout/,MCU: Location Scout,,Breitengrad Szenenort Koordinaten (float)
+Endgame,A4-12D,"Er läuft schnell zum Haus von Maggie 
+Lang um sicher zu gehen, dass seiner 
+Tochter Cassie Lang nichts zugestoßen 
+ist. Zu seiner Überraschung findet er 
+seine Tochter, im Teenager Alter.","840 Clemont Dr NE.
+Atlanta, GA 30306
+USA
+",Wohngebiet in Atlanta ,33.78354564440492,-84.35991668841275,"Maggie Lang House,
+San Francisco",null,null,00:25:10,2023,Cassie Lang/ Scott Lang,https://mculocationscout.com/2020/09/26/street-san-francisco-mcu-location-scout/,MCU: Location Scout,,Zeit im Film in Sekunden (timestamp) (erzählte Zeit) → hh:mm:ss
+Endgame,A4-13,"Die Avengers versuchen weiterhin, 
+Recht und Ordnung zu bewaren. Natascha 
+Romanoff und Steve Rogers reden 
+über den Verlust ihrer Freunde. Scott Lang 
+taucht vor dem Tor des Avengers HQ ihnen 
+von der Quantum Dimension und wie er 
+dardurch durch die Zeit gereist ist.","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842954,-84.45141866135856,"Avengers HQ 
+“Upstate New York”",null,null,00:26:12,2023,"Carol Danvers als Captain Marvel/ James Rhodes/ 
+Natascha Romanoff/ Nebula/ Okoye/ Rocket/ 
+Scott Lang/ Steve Rogers
+
+",,MCU: Location Scout,,Zeit chronologisch (int) → 1…
+Endgame,A4-14,"Natascha, Steve und Scott erzählen 
+Tony Stark von der Möglichkeit von 
+Zeitreisen und dem Plan, so die 
+Dezimierung aufzuhalten.","Fairburn, Georgia, 
+Vereinigte Staaten","Eine Holzhütte am See in Fairburn 
+Georgia",33.6429482613836,-84.70646009325237,"Tony Starks Hütte am 
+See ",33.6429482613836,-84.70646009325237,00:32:52,2023,"Morgan Stark/ Natascha Romanoff/ 
+ Scott Lang/ Steve Rogers/ Tony Stark",,MCU: Location Scout,,Figuren (string) → Name (als Superheld) / Name (als Superheld)
+Endgame,A4-15,"Die Drei treffen sich mit Bruce Banner um 
+über den Zeitreise Plan zu reden.","Diner 
+2277 Cheshire Bridge Rd NE, 
+Atlanta, GA 30324",Diner in Atlanta ,33.81779220115393,-84.35163516932072,Diner in New York ,null ,null ,00:36:55,2023,"Bruce Banner als Hulk Banner/ Natascha Romanoff/ 
+Scott Lang/  Steve Rogers/
+",,MCU: Location Scout,,
+Endgame,A4-16,"Tony löst das Zeitreiseproblem. 
+Nachdem er bemerkt, dass Morgan 
+noch nicht schläft, bringt er sie zu Bett. 
+Er fragt Pepper Potts, ob er lieber aufhören 
+sollte. ","Fairburn, Georgia, 
+Vereinigte Staaten","Eine Holzhütte am See in Fairburn 
+Georgia",33.6429482613836,-84.70646009325237,"Tony Starks Hütte am 
+See ",33.6429482613836,-84.70646009325237,00:39:02,2023,Morgen Stark/ Pepper Pots/ Tony Stark,,MCU: Location Scout,,
+Endgame,A4-17,"Bruce Banner und die anderen versuchen 
+eine erfolgreiche Zeitreise hinzubekommen. 
+Tony Stark taucht auf und erzählt Steve 
+Rogers  von seiner Entdeckung bezüglich 
+Zeitreisen. ","SANY America Inc.,
+318 Cooper Cir N, 
+Peachtree City, GA 30269","Außenbreich und Showroom von 
+SANY America Inc.",33.346237924968856,-84.55586891533968,"Avengers HQ 
+“Upstate New York”",null,null,00:43:18,2023,"Bruce Banner als Hulk Banner/ 
+James Rhodes als War Machine/ Natascha Romanoff/ 
+Nebula/ Rocket/ Scott Lang als Ant Man/Steve Rogers/ 
+Tony Stark/ 
+ ",,MCU: Location Scout,,
+Endgame,A4-18A,"Bruce und Rocket machen sich auf den 
+Weg zu Thor.","Eyemouth 
+TD14 5QF, UK",Straße in Schottland ,55.914598283596874,-2.1461337818908612,"Straße nach 
+Neu Asgard/ Tonsberg",55.914598283596874,-2.1461337818908612,00:48:43,2023,Bruce Banner als Hulk Banner/ Rocket,,MCU: Location Scout,,
+Endgame,A4-18B,"Bruce und Rocket treffen Brunhilde und 
+erfahren, das Thor seit den letzen 5 
+Jahren exzessiv Trinkt und kaum aus dem 
+Haus kommt.","St Abbs, Eyemouth TD14 5PL, 
+United Kingdom",St. Abbs,55.89908377159758,-2.1299200907160767,Neu Asgard/ Tonsberg,55.89908377159758,-2.1299200907160767,00:49:05,2023,Bruce Banner als Hulk Banner/ Brunnhilde/ Rocket,,MCU: Location Scout,,
+Endgame,A4-18C,"Sie treffen Thor und rekrutieren ihn von 
+den Plan, in die Zeit zurück zu reisen, 
+um Thanos aufzuhalten.","St Abbs, Eyemouth TD14 5PL, 
+United Kingdom",St. Abbs,55.89908377159759,-2.1299200907160768,Neu Asgard/ Tonsberg,55.89908377159759,-2.1299200907160768,00:49:55,2023,"Bruce Banner als Hulk Banner/ Korg/ Miek/ Rocket/ 
+Thor/   ",,MCU: Location Scout,,
+Endgame,A4-19,"Natascha findet Clint in Tokyo, während er 
+eine Gruppe Yakusa jagt und umbringt. 
+Sie überzeugt ihn, sich den Zeitreiseplan 
+anzuschließen. ","87 Broad St SW
+Atlanta, GA 30303",Eine Straße in Atlanta ,33.75284154415548,-84.393236,"Eine unbekannte 
+Straße in Tokyo ",null,null,00:54:20,2023,Clint Barton als Ronin/ Natascha Romanoff,,MCU: Location Scout,,
+Endgame,A4-20,"Tony Stark und Rocket konstruieren die 
+Zeitreisemaschiene. Thor trinkt ein Bier. ","SANY America Inc.,
+318 Cooper Cir N, 
+Peachtree City, GA 30269","Amerikanisches 
+Baumaschienenunternehmen in 
+Peachtree City, GA.",33.346237924968856,-84.55586891533968,"Avengers HQ 
+“Upstate New York”",null,null,00:57:35,2023,Rocket/ Thor/ Tony Stark/ ,,MCU: Location Scout,,
+Endgame,A4-21,"Bruce, Nebular, James, Scott und Clint 
+kalibrieren den neuen Zeitreiseanzug und 
+diskutieren wie Zeitreisen funktionieren. ","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842954,-84.45141866135856,"Avengers HQ 
+“Upstate New York”",null,null,00:57:56,2023,"Bruce Banner als Hulk Banner/ Clint Barton/ 
+James Rhodes/ Nebula/ Scott Lang als Antman/ ",,MCU: Location Scout,,
+Endgame,A4-22,"Clint Barton reist zurück zur Barton Farm, 
+an einen unbestimmten Zeitpunkt vor der 
+Dezimierung. Bevor er mit seiner Familie 
+reden kann, wird er jedoch zurück in 
+seine eigene Zeit gezogen. ","Christopher Farms and Fertilizer.
+856 Christopher Rd 
+Sharpsburg, GA 30277
+","Christopher Farms and Fertilizer, 
+Privates Anwesen,
+westlich vom Lake McIntosh
+in Sharpsburg, GA 30277
+",33.36652536163343,-84.60400411599839,Barton Farm,33.36652536163343,-84.60400411599839,00:59:40,null,"Bruce Banner als Hulk Banner/ Clint Barton/ 
+James Rhodes/ Nebula/ Rocket/ Steve Rogers/ Thor/ 
+",,MCU: Location Scout,,
+Endgame,A4-23,"Die Avenger besprechen, wo sich die 
+Infity Steine befinden und wie sie an 
+diese gelangen. ","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842954,-84.45141866135856,"Avengers HQ 
+“Upstate New York”",null,null,01:01:48,2023,"Bruce Banner als Hulk Banner/ Clint Barton/ 
+James Rhodes/ Natascha Romanoff/ Nebula/ Rocket/
+Scott Lang/ Steve Rogers/ Thor/ Tony Stark/ 
+",https://mculocationscout.com/2020/08/09/new-avengers-facility-mcu-location-scout/#endgame,MCU: Location Scout,,
+Endgame,A4-24,"Die Avengers reisen jeweils zu einen 
+bestimmten Zeitpunkt in die 
+Vergangenheit, um die Infinity Steine 
+zu besorgen.","SANY America Inc.,
+318 Cooper Cir N, 
+Peachtree City, GA 30269","Showroom von 
+SANY America Inc.",33.346237924968856,-84.55586891533968,"Avengers HQ 
+“Upstate New York”",null,null,01:05:23,2023,"Bruce Banner als Hulk Banner/ Clint Barton/ 
+James Rhodes/ Natascha Romanoff/ Nebula/ Rocket/
+Scott Lang/ Steve Rogers/ Thor/ Tony Stark/ 
+",,,,
+Endgame,A4-25A,"Die 2012 Avengers sammeln sich vor der 
+Grand Central Station.","Park Ave Viaduct, 
+New York, NY 10168
+","Park Ave Viaduct vor der 
+Grand Central Station",40.75165419184952,-73.97802928236965,"Park Ave Viaduct vor der 
+Grand Central Station",40.75165419184952,-73.97802928236965,01:07:10,2012,"Bruce Banner als Hulk(2012)/ 
+Clint Bartion als Hawkeye(2012)/ 
+Natascha Romanoff als Black Widow(2012)/
+Steve Rogers als Captain America(2012)/ Thor(2012)/ 
+Tony Stark als Iron Man(2012)/ 
+
+ ",,,,
+Endgame,A4-25B,"Steve, Bruce, Tony und Scott landen 
+im New York von 2012. ","Williams St NW, Atlanta, 
+GA 30303","Williams St NW, 
+Ecke Cone St NW.",33.7582455547772,-84.38946661507313,"Walnut Ave in 
+Cleveland",null,null,01:07:33,2012,"Bruce Banner als Hulk Banner(2023)/ 
+Bruce Banner als Hulk(2012)/ Scott Lang als Antman/ 
+Steve Rogers als Captain America/ Tony Stark
+",,,,
+Endgame,A4-25C,"Bruce trift die Älteste auf dem Dach des 
+New Yoker Sanctums und versucht ihr 
+den Zeit Stein wegzunehmen. Sie trennt 
+seinen Geist von seinem Körper versucht 
+Bruce zu erklären, das sie ihm den Stein 
+nicht geben kann. ",null,null,null,null,"New York Sanctum, 
+177A Bleecker St, 
+New York,
+",40.72923205574747,-74.00059825769762,01:08:15,2012,"Bruce Banner als Hulk Banner/ Die Älteste(2012)
+",,,,
+Endgame,A4-26,"Thor und Rocket landen in Asgard und 
+versuchen den Realitätsstein zu holen. 
+Thor sieht seine verstorbene Mutter 
+Frigga und wird nervös, woraufhin er 
+wegläuft.","Durham DH1 3EH, 
+United Kingdom",Durham Kathedrale ,54.77350529496382,-1.5762847116508882,Asgard,null,null,01:09:17,2013,"Frigga(2013)/ Jane Foster(2013)/ Loki(2013)/ Rocket/ 
+Thor
+",,,,
+Endgame,A4-27,"James, Nebula, Natascha und Clint landen 
+auf  Morag. Natasch und Clint fliegen mit 
+der Benetar weiter nach Wormir. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797589,-84.51239895398114,Morag,null,null,01:11:56,2014,"Clint Barton als Ronin/ Jamers Rhodes asl War Machine/ 
+Natascha Romanoff als Black Widow/ Nebula/ 
+
+",,,,
+Endgame,A4-28,"Nebula und Gomora kämpfen auf einem 
+fremden Schiff. Die beiden werden auf 
+Thaos Schiff gerufen, da er einen 
+Infinity-Stein aufgespürt hat. Nebula 
+erhällt ungewollte Aufzeichnung von 
+2023 Nebula.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797589,-84.51239895398114,Unbekanntes Schiff ,null,null,01:13:30,2014,Gamora(2014)/ Nebula(2014)/ Thanos,,,,
+Endgame,A4-29A,"Tony und Scott schleichen ins Penthouse 
+des Stark Tower. Scott landet in winziger 
+Form, auf 2012 Tony und versteckt sich 
+auf ihm. 2023 Tony fliegt in die Lobby des 
+Stark Towers. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797589,-84.51239895398114,"Stark Tower, 
+Penthouse ",40.7545766992002,-73.97645523402086,01:16:01,2012,"Bruce Banner als Hulk(2012)/ Loki(2012)/ 
+Natascha Romanoff als Black Widow(2012)/ 
+Scott Lang als Antman/  
+Steve Rogers als Captain America(2012)/ Thor(2012)/ 
+Tony Stark als Ironman(2023)/ 
+Tony Stark als Ironman(2012)/",,,,
+Endgame,A4-29B,"Steve nimmt den Hydra Agenten, im 
+Aufzug das Zepter ab.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797590,-84.51239895398115,"Stark Tower, 
+Penthouse ",40.7545766992002,-73.97645523402086,01:18:01,2012,"Alexander Pierce(2012)/ Brock Rumlow(2012)/ 
+Hydra Agenten(2012)/ Jasper Sitwell(2012)
+Steve Rogers als Captain America(2023)
+",,,,
+Endgame,A4-29C,"Tony und Scott versuchen den Raumstein 
+zu stehlen. Scott verusacht eine Störung in 
+Tonys künstlichen Herz, 2023 Tony nimmt 
+den Koffer mit dem Stein, verliert ihn als 
+2012 Hulk ihn bei Seite schlägt. Loki nimmt 
+den Tesserakt an sich und verschwindet 
+aus der Szene. ","The Proscenium
+1170 Peachtree St NE, 
+Atlanta, GA 30309",Marketingagentur in New York,33.78654655811128,-84.38403841291066,"Stark Tower, 
+Penthouse ",40.7545766992003,-73.97645523402087,01:19:20,2012,"Loki(2012)/ Scott Lang als Antman/ Thor(2012)/ 
+Tony Stark/ Tony Stark(2012)
+",,,,
+Endgame,A4-29D,"Steve kämft gegen sich selbst und gewinnt, 
+woraufhin er das Zepter ansich nimmt. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797590,-84.51239895398115,"Stark Tower, 
+Penthouse ",40.7545766992004,-73.97645523402088,01:21:51,2012,"Steve Rogers als Captain America(2023)/ 
+Steve Rogers als Captain America(2012)",,,,
+Endgame,A4-30,"Bruce überzeugt die Älteste ihm den 
+Zeitstein zu geben, nachdem er erwähnte, 
+dass Dr. Strange den Stein absichtlich an 
+Thanos gegeben hat. ",null,null,null,null,"New York Sanctum, 
+177A Bleecker St, 
+New York,
+",40.72923205574747,-74.00059825769762,01:23:40,2012,"Bruce Banner als Geist Banner & Hulk Banner/ 
+Die Älteste(2012)",,,,
+Endgame,A4-31,"Thanos durchsucht das Gedächtis von 
+Nebula und findet Erinnerungen von 
+Nebula aus 2023.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797589,-84.51239895398114,Thanos Schiff,null,null,01:26:24,2014,"Ebony Maw(2014)/ Gomaora(2014)/ Nebula(2014)/ 
+Thanos",,,,
+Endgame,A4-32,"Thor redet mit seiner Mutter Frigga über 
+sein Versagen gegen Thanos. Sie bringt ihn 
+dazu, wieder an sich selbst zu glauben. 
+Rocket stiehlt den Infinity-Stein von Jane 
+Forster. ","Durham DH1 3EH, 
+United Kingdom",Durham Kathedrale ,54.77350529496382,-1.5762847116508882,Asgard,null,null,01:28:23,2013,"Frigga(2013)/ Jane Foster(2013)/ Rocket/ 
+Thor
+",,,,
+Endgame,A4-33,"James schlägt Peter bewusstlos und Nebula 
+holt den Infinity-Stein. Als die beiden wieder 
+in ihre eigene Zeit reisen wollten, wird 
+Nebula bewusstlos, da Thanos ihre 
+Erinnungen auf der alten Nebula abruft. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797589,-84.51239895398114,Morag,null,null,01:32:19,2014,"James Rhodes als War Machine/ Nebula/
+Peter Quill als Star Lord(2014)",,,,
+Endgame,A4-34,"Steve, Tony und Scott kehren zu ihrem 
+Treffpunkt zurück und besprechen ihr 
+weiters Vorgehen. Tony erinnert sich an 
+die Militäreinrichtung, in der der Tesseract 
+und weiter Plim-Partikel gelagert wurden.  ","Williams St NW, Atlanta, 
+GA 30303","Williams St NW, 
+Ecke Cone St NW.",33.7582455547772,-84.38946661507313,"Walnut Ave in 
+Cleveland",null,null,01:37:00,2012,"Scott Lang als Ant Man/ 
+Steve Rogers als Captain America/ Tony Stark/ ",,,,
+Endgame,A4-35,"Tony und Steve dringen in die Militäranlage 
+Camp Lehigh ein um dort den 
+Tesserakt und weitere Plim-Partikel für die 
+Rückreise nach 2023 zu stehelen. ","Verlassenes Lagerhaus 
+1000 Murphy Ave SW, Atlanta, 
+GA 30310",Verlassenes Lagerhaus,33.72577066779693,-84.41658545639203,"Camp Lehigh Army 
+base in New Jersey",null,null,01:38:54,1970,Steve Rogers/ Tony Stark,,,,
+Endgame,A4-36,"Tony trifft auf seinem Vater unterhält sich 
+mit ihm über das Vater sein. Steve 
+beobachtet Peggy Carter durch ein Fenster.","OFS Fitel
+6305 Crescent Dr, Norcross, 
+GA 30071",Glsfaserunternehmen,33.91340499185346,-84.21478662699052,"Camp Lehigh Army 
+base in New Jersey",null,null,01:39:46,1970,Howard Stark/ Peggy Carter/ Steve Rogers/ Tony Stark ,,,,
+Endgame,A4-37,"Thanos ergreift 2023 Nebula. 2014 Nebula 
+bedroht ihre Doppelgängering und nimmt 
+ihr eine Stück Metal vom Schädel, um sich 
+als ihr zukünftiges Ich zu tarnen. Sie übergibt 
+Thanos das Fläschchen mit Piym-Partikeln.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797589,-84.51239895398114,Thanos Schiff,null,null,01:46:37,2014,"Gomora(2014)/ Nebula(2023)/ Nebula(2014)/ 
+Thanos",,,,
+Endgame,A4-38,"Clint und Natascha landen auf Vormir 
+und reisen zu der Stelle, wo sie den Stein 
+finden. Red Skull empängt sie und führt 
+sie zu der Stelle wo eine der beiden sich 
+opfern muss. Nach einer 
+Auseinandersetzung opfert sich Natascha, 
+damit Clint mit dem Stein in die Zukunft 
+zurückkehren kann ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797589,-84.51239895398114,Vormir,null,null,01:48:12,2014,Clint Barton als Ronin/ Natascha Romanoff/ Red Skull,,,,
+Endgame,A4-39,"Clint wacht in einer Pfütze, inmitten 
+einer Wüstenartigen Ebene. ","Parque Nacional dos Lençóis 
+Maranhenses,
+Barreirinhas - State of Maranhão, 
+65590-000, Brazil
+
+",Sanddünen in Brasilien ,-2.48902499319431,-43.090298178395614,Vormir,null,null,01:54:09,2014,Clint Barton ,,,,
+Endgame,A4-40,Die Avenger kehren zurück in die Zukunft. ,"SANY America Inc.,
+318 Cooper Cir N, 
+Peachtree City, GA 30269","Showroom von 
+SANY America Inc.",33.346237924968856,-84.55586891533968,"Avengers HQ 
+“Upstate New York”",null,null,01:55:05,2023,"Bruce Banner als Hulk Banner/ Clint Barton/ 
+James Rhodes/ Nebula/ Rocket/ Scott Lang/ 
+Steve Rogers/ Thor/ Tony Stark
+ ",,,,
+Endgame,A4-41,"Tony, Steve, Thor, Clint und Bruce streiten 
+sich über den Verlust von Natascha. 
+Schließlich akzeptieren sie, das Natascha 
+nicht endgültig tot ist. ","Chattahoochee Hills Eventing at 
+Bouckaert Farm,
+9445 Browns Lake Rd, Fairburn, 
+GA 30213",Farm fürs Pferdereiten und Events ,33.6403818749739,-84.69996609554558,"Avengers HQ 
+“Upstate New York” 
+Bootsteg",null,null,01:55:50,2023,"Bruce Banner als Hulk Banner/ Clint Barton/ 
+Steve Rogers/ Thor/ Tony Stark
+",,,,
+Endgame,A4-42,"Bruce, Tony und Rocket setzen die 
+Infinity-Steine in einen von Ironmans 
+Panzerhandschuhen.","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842954,-84.45141866135856,"Avengers HQ 
+“Upstate New York”",null,null,01:57:26,2023,Bruce Banner als Hulk Banner/ Rocket/ Tony Stark,,,,
+Endgame,A4-43,"Die Avengers diskutieren, wer die 
+Infitiy-Steine benutzt um die Dezimierung 
+rückgängig zu machen. Bruce entscheidet, 
+das er den Infity-Handschuh benutzt. ","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842955,-84.45141866135857,"Avengers HQ 
+“Upstate New York”",null,null,01:57:54,2023,"Bruce Banner als Hulk Banner/ Clint Barton als Ronin/ 
+James Rhodes als War Machine/ Rocket/
+Scott Lang als Antman/ Steve Rogers als Captain America/ 
+Thor/ Tony Stark/ ",,,,
+Endgame,A4-44A,"Nebula(2014) benutzt die Zeitreisemaschine 
+der Avenger um Thanos in die Zukunft zu 
+bringen.","SANY America Inc.,
+318 Cooper Cir N, 
+Peachtree City, GA 30269","Showroom von 
+SANY America Inc.",33.346237924968856,-84.55586891533968,"Avengers HQ 
+“Upstate New York”",null,null,01:59:18,2023,Nebula(2014),,,,
+Endgame,A4-44B,"Bruce bringt die Opfer der Dezimierung mit 
+dem Infinity-Handschuh wieder zurück, 
+wobei er starke Verbrennungen am rechten 
+Arm und Hals erleidet. Währenddessen 
+gelangt Thanos mit seinem Schiff in die 
+Zukunft und jagt das Avengers HQ in die Luft. ","Verlassenes Hotel in Atlanta 
+1900 Sullivan Rd
+College Park, GA 30337 ?",Verlassenes Hotel in Atlanta,33.625938771842955,-84.45141866135857,"Avengers HQ 
+“Upstate New York”",null,null,01:59:35,2023,"Bruce Banner als Hulk Banner/ Clint Barton als Ronin/ 
+James Rhodes als War Machine/ Rocket/ 
+Scott Lang als Antman/ Steve Rogers als Captain / 
+Thor/ Tony Stark als Ironman",,,,
+Endgame,A4-45,"Die verschütteten Avengers flüchten aus 
+dem zerstörten Avengers HQ und begeben 
+sich auf das nun entstandene Schlachtfeld. 
+Clint findet den Infinity-Handschuh und 
+bringt ihr in Sicherheit. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797590,-84.51239895398115,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:03:00,2023,"Bruce Banner als Hulk Banner/ Clint Barton als Ronin/ 
+James Rhodes als War Machine/ Rocket/ 
+Scott Lang als Antman/",,,,
+Endgame,A4-46,"Thanos erscheint auf dem Schlachtfeld und 
+trifft auf Nebula(2014). Gomora(2014) 
+beobachtet die beiden von Thanos Schiff. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797590,-84.51239895398115,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:04:59,2023,Gomora(2014)/ Nebula(2014)/ Thanos,,,,
+Endgame,A4-47,"Nebula(2023) erzählt Gomora von ihrer 
+gemeinsamen Zukunft. Gomora hilft den 
+Avengers, Thanos aufzuhalten.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797591,-84.51239895398116,Thanos Schiff,null,null,02:05:52,2023,Gomora(2014)/ Nebula(2023),,,,
+Endgame,A4-48,"Steve, Thor und Tony treten aus dem 
+zerstörten Avengers HQ heraus und stehen 
+Thanos gegenüber. Die drei Avenger 
+beginnen den Kampf gegen Thanos. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797592,-84.51239895398117,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:06:45,2023,"Steve Rogers als Captain America/ Thanos/ Thor/ 
+Tony Stark als Ironman ",,,,
+Endgame,A4-49,Scott eilt zur Rettung. ,"Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797593,-84.51239895398118,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:09:43,2023,"Bruce Banner als Hulk Banner/  
+James Rodes als War Machine/ Rocket/ 
+Scott Lang als Antman/ ",,,,
+Endgame,A4-50,"Clint flüchtet und entkommt vor Thanos 
+""Jagdhuden"". Nebula(2014) legt ihn herein 
+und nimmt ihm den Infinity-Handschuh ab. 
+Nach einem vergeblichen Versuch, 
+Nebula(2014) auf die Seite der Avenger 
+zubringen, bringt Nebula(2023) ihre 
+Doppelgängerin um, um ihre Schwester 
+zu retten.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797594,-84.51239895398119,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:10:00,2023,"Clint Barton als Ronin/ Gomora(2014)/ Nebula(2023)/ 
+Nebula(2014)",,,,
+Endgame,A4-51,"Steve, Thor und Tony kämpfen weiterhin 
+gegen Thanos, wobei Thanos den Kampf 
+dominiert. Steve benutzt Mjölnir, weiter 
+gegen Thaos zu kämpfen.  ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797595,-84.51239895398120,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:11:56,2023,"Steve Rogers als Captain America/ Thanos/ 
+Thor/ Tony Stark als Ironman/",,,,
+Endgame,A4-52,"Thanos ruft seine Armee auf das 
+Schlachtfeld. Steve steht Thanos und seiner 
+Armee gegenüber, woraufhin sich mehrere 
+Portale hinter ihm Öffnen. Dr. Strange und 
+die wiederbelebten Avengers, sowie die 
+wiederbelebte Armee der Menschheit 
+treten durch die Portale und stürmen auf 
+die Armee von Thanos zu. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797596,-84.51239895398121,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:15:05,2023,"Bruce Banner als Hulk Banner/ Brunhilde als Valkyrie/ 
+Bucky Barns als Winter Soldier/ Corvus Glaive/ 
+Cull Obsidian/ Drax/ Ebony Maw/ Groot/ 
+Hope van Dyne als Wasp/ James Rhodes als War Machine/ 
+Korg/ Mantis/ Miek/ Okoye/ Peter Parker als Spiderman/ 
+Peter Quill als Star Lord/ Pepper Potts als Rescue/ 
+Proxima Midnight/ Rocket/ Sam Willson als Falcon/ 
+Scott Lang als Antman/ Shuri/ 
+Steve Rogers als Captain America/ 
+Stephen Strange als Dr. Strange/
+T'Challa als Black Panther/Thor/ 
+Tony Stark als Ironman/ 
+Wanda Maximoff als Scarlett Witch/ Wong",,,,
+Endgame,A4-53,"Tony wird während der Schlacht von 
+Cull Obsidian niedergeschlagen, jedoch 
+kommen Scott und Peter Parker zur rettung. 
+Tony umarmt, den verwirrten Peter Parker. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797597,-84.51239895398122,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:19:19,2023,"Bucky Barns als Winter Soldier/ Cull Obsidian/ Mantis/ 
+Rocket/ Scott Lang als Antman/ 
+Peter Parker als Spiderman/ 
+Steve Rogers als Captain America/ Thor/
+Tony Stark als Ironman/ ",,,,
+Endgame,A4-54,"Peter Quill wird von Gomora auf dem 
+Schlatfeld gerettet. Er berührt ihr Gesicht 
+und bekommt zwei Kniehiebe in den Schritt. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797598,-84.51239895398123,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:20:05,2023,Gomora/ Korg/ Nebula/ Peter Quill als Star Lord/ ,,,,
+Endgame,A4-55,"Die Avengers versuchen die Infinity-Steine 
+zurück in die Vergangenheit zu bringen, 
+damit Thanos diese nicht in die Hände 
+bekommt. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797599,-84.51239895398124,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:21:02,2023,"Bruce Banner als Hulk Banner/ Brunhilde als Valkyrie/ 
+Clint Barton als Ronin/ Hope van Dyne als Wasp/
+Sam Willson als Falcon/ Scott Lang als Antman/ 
+Steve Rogers als Captain America/ Tony Stark als Ironman ",,,,
+Endgame,A4-56,"Die Avengers transportieren den 
+Infinity-Handschuh über das Schlachtfeld 
+und weichen Thanos Truppen aus. Wanda 
+sieht Thanos auf dem Schlachtfeld und 
+versucht ihn zu töten. Thanos befiehlt, 
+ohne Rücksicht mit seinem Raumschiff 
+auf das Schlachtfeld zu schießen. Peter 
+Parker, welcher den Handschuh bei sich hat, 
+befindet sich unter direktem Beschuss. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797600,-84.51239895398125,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:21:55,2023,"Bruce Banner als Hulk Banner/ 
+Bucky Barns als Winter Soldier/ Brunhilde als Valkyrie/ 
+Corvus Glaive/ Clint Barton als Ronin/ Ebony Maw/ 
+Groot/ Korg/ Pepper Pots als Rescue/ 
+Peter Parker als Spiderman/ 
+Stephen Strange als Dr. Strange/ 
+Tony Stark als Ironman/ Hope van Dyne als Wasp/ 
+Rocket/ Scott Lang als Antman/ 
+Steve Rogers als Captain America/
+T'Challa als Black Panther/ Thanos/ 
+Wanda Maximoff als Scarlett Witch/ ",,,,
+Endgame,A4-57,"Carol fliegt direkt auf das Raumschiff von 
+Thanos zu und zerstört es.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797601,-84.51239895398126,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:25:21,2023,"Carol Denvers als Captain Marvel/ Groot/ Rocket/ 
+Steve Rogers als Captain America/ Thanos/ 
+Tony Stark als Ironman ",,,,
+Endgame,A4-58,"Carol nimmt den Infinity-Handschuh von 
+Peter und mit Hilfe der anderen Avenger 
+schaffte sie es fast, den Van von Scott zu 
+erreichen. Thanos wirft in der letzten 
+Sekunde seine Gläve in den Van und bringt 
+ihn zum explodieren. Alle Anwesenden 
+werden von der Druckwelle zurückgeworfen, 
+inklusive des Handschuhs.  ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797602,-84.51239895398127,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:26:41,2023,"Brunhilde als Valkyrie/ Carol Denvers als Captain Marvel/ 
+Corvus Glaive/ Gomora/ Hope van Dyne als Wasp/ Mantis/ 
+Nebula/ Okoye/ Pepper Potts als Rescue/ Proxima Midnight/ 
+Scott Lang als Antman/ Shuri/ Stephen Strange als Dr. Strange/ 
+Thanos/ Wanda Maximoff als Scarlett Witch/ ",,,,
+Endgame,A4-59,"Nachdem Thanos in einem Nahkampf mit 
+den Avengern, den Infinity-Handschuh 
+bekommen hat stehlt Tony die Infintiy-Steine 
+von dem Handschuh und benutzt diese um 
+Thanos und seine Untergebenen zu dezimieren. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797603,-84.51239895398128,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:28:09,2023,"Carol Denvers als Captain Marvel/
+Steve Rogers als Captain America/ 
+Stephen Strange als Dr. Strange/ Thanos/ Thor/  
+Tony Stark als Ironman/ ",,,,
+Endgame,A4-60,"*Spoiler*
+Tonys dezimiert Thanos und seine Armee bis 
+zur letzen Person, wodurch er jedoch stirbt. ","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797604,-84.51239895398129,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:30:30,2023,"Ebony Maw/ James Rhodes als War Machine/ 
+Peter Parker als Spiderman/ Pepper Pots als Rescue/ 
+Peter Quinn als Star Lord/ Proxima Midnight/ Rocket/ 
+Steve Rogers als Captain America/ T'Challa als Black Panther/ 
+Thanos/ Thor/ Tony Stark als Ironman/  ",,,,
+Endgame,A4-61,"Fast alle Anwesenden der der Schlacht kehren 
+zu ihrem normalen Leben zurück. ","Christopher Farms and Fertilizer.
+856 Christopher Rd 
+Sharpsburg, GA 30277
+","Christopher Farms and Fertilizer, 
+Privates Anwesen,
+westlich vom Lake McIntosh
+in Sharpsburg, GA 30277
+",33.36652536163343,-84.60400411599839,Barton Farm,33.36652536163343,-84.60400411599839,02:34:40,2023,"Cassie Lang/ Clint Barton/ Cooper Barton/ Hope van Dyne/
+Laura Barton/ Lila Barton/ Nathaniel Pietro Barton Ned Leeds/ 
+Peter Parker/ Ramonda/ Scott Lang/ Shuri/ T'Challa/",,,,
+Endgame,A4-62,"Fast alle Anwesenden der der Schlacht kehren 
+zu ihrem normalen Leben zurück. ","840 Clemont Dr NE.
+Atlanta, GA 30306
+USA
+",Wohngebiet in Atlanta ,33.78354564440492,-84.35991668841275,"Maggie Lang House,
+San Francisco",null,null,02:34:40,2023,"Cassie Lang/ Clint Barton/ Cooper Barton/ Hope van Dyne/
+Laura Barton/ Lila Barton/ Nathaniel Pietro Barton Ned Leeds/ 
+Peter Parker/ Ramonda/ Scott Lang/ Shuri/ T'Challa/",,,,
+Endgame,A4-63,"Fast alle Anwesenden der der Schlacht kehren 
+zu ihrem normalen Leben zurück. ",null ,Highschool,null ,null ,"Midtown High School for 
+Science & Technology",null ,null ,02:34:40,2023,"Cassie Lang/ Clint Barton/ Cooper Barton/ Hope van Dyne/
+Laura Barton/ Lila Barton/ Nathaniel Pietro Barton Ned Leeds/ 
+Peter Parker/ Ramonda/ Scott Lang/ Shuri/ T'Challa/",,,,
+Endgame,A4-64,"Tonys Familie und Freunde hören seine 
+Abschiedsbotschaft nach seiner Beerdigung. 
+Sein künstliches Herz wird mit seinem 
+Blumenstrauß auf den See gelegt.","Fairburn, Georgia, 
+Vereinigte Staaten","Eine Holzhütte am See in Fairburn 
+Georgia",33.6429482613836,-84.70646009325237,"Tony Starks Hütte am 
+See ",33.6429482613836,-84.70646009325237,02:36:20,2023,"Bucky Barnes/ Bruce Banner als Hulk Banner/Carol Danvers/ 
+Clint Barton/ Cooper Barton
+/ Drax/ Groot/ Hank Pym/ Happy Hogan/ Harley Keener/ 
+Hope van Dyne/ James Rhodes/ Janet van Dyne/ Laura Barton/ 
+Lila Barton/ Maria Hill/ May Parker/ Morgan Stark/ 
+Nathaniel Barton/ Nebula/ Nick Fury
+/ Okoye/ Pepper Pots/ Peter Parker/ Peter Quill/ Rocket/ 
+Sam Wilson/ Scott Lang/ Steve Rogers Stephen Strange/ 
+Shuri/ T'Challa/Thaddeus Ross/  Thor/ Wanda Maximoff/ Wong/ ",,,,
+Endgame,A4-65,"Clint und Wanda, reden über den Verlust von 
+Natascha und Vision. Happy und Morgen 
+unterhalten sich über Cheeseburger. ","Fairburn, Georgia, 
+Vereinigte Staaten","Eine Holzhütte am See in Fairburn 
+Georgia",33.6429482613837,-84.70646009325238,"Tony Starks Hütte am 
+See ",33.6429482613837,-84.70646009325238,02:39:02,2023,Clint Barton/ Happy Hogan/ Morgan Stark/ Wanda Maximoff,,,,
+Endgame,A4-66,"Thor ernennt Brunhilde zur neuen Königin von 
+Neu Asgard. ","St Abbs, Eyemouth TD14 5PL, 
+United Kingdom",St. Abbs,55.89908377159758,-2.1299200907160767,Neu Asgard/ Tonsberg,55.89908377159758,-2.1299200907160767,02:40:19,2023,Brunhilde/Rocket/ Thor/  ,,,,
+Endgame,A4-67,"Thor, das neues Mitglied der Gurdians of the 
+Galaxy, begleitet Peter durch das All.","Trilith Studios.
+461 Sandy Creek Rd, 
+Fayetteville, GA 30214, 
+Vereinigte Staaten ?","Amerikanisches Film- und 
+Fernsehproduktionsstudio südlich 
+von Atlanta in Fayette County, 
+Georgia.",33.47400763797583,-84.51239895398108,"Die Benatar 
+(Schiff der Gurdians 
+of the Galaxy), gelandet 
+in Neu Asgard",55.89908377159759,-2.1299200907160768,02:41:35,2023,Drax/ Groot/ Mantis/ Nebula/ Peter Quill/ Rocket/ Thor/ ,,,,
+Endgame,A4-68,"Steve bringt die geliehenen Infinity-Steine 
+zurück in die Vergangenheit, jedoch kehrt er 
+nicht zurück und lebt ein Leben, gemeinsam 
+mit seiner Frau Peggy. Der nun alte Steve 
+Rogers ernnent Sam zum neuen Captain America.","Fairburn, Georgia, 
+Vereinigte Staaten","Zerstörtes Avengers HQ 
+“Upstate New York”",33.6429482613837,-84.70646009325238,"Zerstörtes Avengers HQ 
+“Upstate New York”",null,null,02:43:03,2023,"Bucky Barnes/ Bruce Banner als Hulk Banner/ Sam Wilson/ 
+Steve Rogers als Captain America & Old Steve Rogers/ ",,,,
+Endgame,A4-69,"Steve besucht Peggy und füllt sein Versprechen 
+ein, ein letztes mal mit ihr zu tanzen.","1340 Metropolitan Ave SE,
+Atlanta, GA 30316",Wohngebiet in Atlanta ,33.74347691299071,-84.34369479631123,Peggy Carters Haus ,null,null,02:48:07,1950er,Peggy Carter/ Steve Rogers ,,,,
